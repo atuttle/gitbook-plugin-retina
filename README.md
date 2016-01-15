@@ -7,3 +7,5 @@ Simply include the plugin in your `book.json`:
 	"plugins": [ "retina" ]
 }
 ```
+
+See [retina.js docs](http://imulus.github.io/retinajs/) for usage.
