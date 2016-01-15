@@ -1,18 +1,18 @@
 {
-	"name": "gitbook-plugin-retina",
-	"description": "retina.js for GitBook",
-	"main": "index.js",
-	"version": "1.0.0",
-	"engines": {
-		"gitbook": "*"
-	},
-	"homepage": "https://github.com/atuttle/gitbook-plugin-retina",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/atuttle/gitbook-plugin-retina.git"
-	},
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/atuttle/gitbook-plugin-retina/issues"
-	}
+  "name": "gitbook-plugin-retina",
+  "description": "retina.js for GitBook",
+  "main": "index.js",
+  "version": "1.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/atuttle/gitbook-plugin-retina",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atuttle/gitbook-plugin-retina.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atuttle/gitbook-plugin-retina/issues"
+  }
 }
